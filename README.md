@@ -70,7 +70,7 @@ Title: title                   <------where title is the title of the RFC(the .t
 </pre>
 
 GET: connects to a peer upload server to receive an RFC. When the peer gets the RFC, the .txt file<br />
-is added to their directory and local storage and can be sent to the server whenever. If peer already had the RFC before making the request<br />
+is added to their directory and local storage and can be sent to the server whenever. If peer already had the RFC before making the request,<br />
 it is updated within their directory and local storage.<br /><br />
 
 <pre>
