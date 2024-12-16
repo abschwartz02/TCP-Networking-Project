@@ -1,7 +1,7 @@
 # Networking - P2P and P2S Project
 
 ## PROJECT SUMMARY
-This Java project simulates simulates client-to-server and client-to-client TCP communication by sending request messages as a terminal application. Clients can send their RFC text files that are stroed locally to be stored within the server, and they can send and receive RFC's with other clients connected to the server. See the commands section for different functionality within the project. 
+This Java project simulates client-to-server and client-to-client TCP communication by sending request messages as a terminal application. Clients can send their RFC text files that are stroed locally to be stored within the server, and they can send and receive RFC's with other clients connected to the server. See the commands section for different functionality within the project. 
 
 ## JAVA FILES
 Server.java: Creates the server with a list of Peers and RFCs. Creates a thread for each connection with a peer, and handles the logic for incoming requests. <br />
